@@ -18,6 +18,5 @@ I am seeking an apprenticeship to further develop my skills in cybersecurity for
 Contact
 Email: [12188@holbertonstudents.com]
 
-LinkedIn: [Loïc cerqueira]
-
+LinkedIn: [Loïc Cerqueira](https://www.linkedin.com/in/lo%C3%AFc-cerqueira-b721a2364/)
 Thank you for visiting my profile!
