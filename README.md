@@ -15,6 +15,24 @@ You’ll find my personal projects, school assignments, and open-source contribu
 Looking for an apprenticeship
 I am seeking an apprenticeship to further develop my skills in cybersecurity for my second year at Holberton. If you are interested in a motivated and curious learner, please contact me—I would be delighted to discuss an opportunity to work with you.
 
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### 🌐 Check out my project: [whooami.net](https://whooami.net)
+
+**whooami.net** is an educational platform designed for CTF players and cybersecurity enthusiasts. I built this centralized hub to gather the best resources for learning and practicing security concepts.
+
+**🛠️ What's inside?**
+A curated collection of **150+ tools** covering essential categories:
+* 🕵️ **OSINT** (Open Source Intelligence)
+* 🖼️ **Steganography**
+* 🔐 **Cryptography**
+* And much more...
+
+Whether you are a beginner or a seasoned CTF player, this platform is built to streamline your workflow.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 Contact
 Email: [12188@holbertonstudents.com]
 
