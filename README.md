@@ -33,6 +33,22 @@ Whether you are a beginner or a seasoned CTF player, this platform is built to s
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
+### 🌐 Check out my project: [Quizz_me](https://github.com/Loic2888/Quizz_me)
+
+Quizz_me is an AI-powered desktop app that generates custom quizzes on any subject you choose, helping you review and reinforce knowledge in a fast and interactive way.
+​
+# 🧠 What can you do with it?
+
+Instantly create quizzes on any topic (from school subjects to tech and hobbies) using an integrated AI model.
+​
+Adjust the difficulty with three modes (Easy, Good, Hardcore) to match your current level and goals.
+​
+Enjoy a modern, neon-styled dark interface that makes studying more immersive and pleasant.
+​
+Built with TypeScript, Rust, and Tauri, Quizz_me is lightweight, cross-platform, and designed for students, self-learners, and anyone who wants a smarter way to revise.
+​
+
+---------------------------------------------------------------------------------------------------------------------------------------------
 Contact
 Email: [12188@holbertonstudents.com]
 
