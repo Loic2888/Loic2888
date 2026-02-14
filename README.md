@@ -46,7 +46,27 @@ Adjust the difficulty with three modes (Easy, Good, Hardcore) to match your curr
 Enjoy a modern, neon-styled dark interface that makes studying more immersive and pleasant.
 ​
 Built with TypeScript, Rust, and Tauri, Quizz_me is lightweight, cross-platform, and designed for students, self-learners, and anyone who wants a smarter way to revise.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🌐 Check out my project: [DeepSide](https://github.com/Loic2888/DeepSide)
+
+DeepSide is an autonomous cybersecurity sentinel for local networks, combining low-level packet sniffing with an on-device AI engine called Illya to analyze threats and recommend concrete mitigation actions in real time.
 ​
+
+### 🛠️ What's inside?
+
+Real-time traffic capture, device discovery, and heuristic plus AI-driven threat detection on your LAN.
+​
+
+Integrated intelligence tools (VirusTotal, Shodan, AbuseIPDB, Whois) to enrich alerts with external context before you react.
+​
+
+A local ONNX-based AI engine that turns network events into readable explanations and actionable commands, keeping sensitive data on your machine.
+​
+
+Whether you are a blue-teamer, a homelab enthusiast, or a security learner, this platform is built to help you understand your network and respond faster to suspicious activity.
+​​
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Contact
