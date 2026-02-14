@@ -18,7 +18,7 @@ I am seeking an apprenticeship to further develop my skills in cybersecurity for
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### 🌐 Check out my project: [whooami.net](https://whooami.net)
+# 🌐 Check out my project: [whooami.net](https://whooami.net)
 
 **whooami.net** is an educational platform designed for CTF players and cybersecurity enthusiasts. I built this centralized hub to gather the best resources for learning and practicing security concepts.
 
@@ -33,11 +33,11 @@ Whether you are a beginner or a seasoned CTF player, this platform is built to s
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-### 🌐 Check out my project: [Quizz_me](https://github.com/Loic2888/Quizz_me)
+# 🌐 Check out my project: [Quizz_me](https://github.com/Loic2888/Quizz_me)
 
 Quizz_me is an AI-powered desktop app that generates custom quizzes on any subject you choose, helping you review and reinforce knowledge in a fast and interactive way.
 ​
-# 🧠 What can you do with it?
+### 🧠 What can you do with it?
 
 Instantly create quizzes on any topic (from school subjects to tech and hobbies) using an integrated AI model.
 ​
