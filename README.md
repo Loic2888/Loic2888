@@ -67,6 +67,29 @@ A local ONNX-based AI engine that turns network events into readable explanation
 
 Whether you are a blue-teamer, a homelab enthusiast, or a security learner, this platform is built to help you understand your network and respond faster to suspicious activity.
 ​​
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🌐 Check out my project: Postulo
+​
+
+Postulo is an intelligent job application assistant that runs as a native desktop app, combining Rust performance, a React UI, and Groq’s Llama 3.3 70B to instantly generate tailored PDFs (cover letter, company summary, and adapted CV) from a single job offer URL.
+​
+
+### 🛠️ What’s inside?
+
+Real-time offer parsing: paste a LinkedIn, Indeed, or any job URL and the app automatically extracts key information about the role and the company.
+​
+
+Automated document generation: for each application, Postulo generates a company/role summary, a structured You/Me/Us-style cover letter, and a customized CV version with an optimized title to catch recruiters’ and ATS attention.
+​
+
+Local-first workflow: your CV files (HTML/CSS/photo) stay on your machine, the app runs natively via Tauri/Rust, and Groq is used through your own API key stored in a simple .env file.
+​
+
+Smooth developer experience: React + TypeScript frontend, Rust backend, and Chrome-based PDF rendering to produce clean, ready-to-send documents.
+​
+
+Whether you are a student, a career-switching developer, or already employed and job hunting, Postulo is built to help you apply faster with consistent, highly tailored documents for every job posting, without compromising your privacy.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Contact
