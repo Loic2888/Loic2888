@@ -67,7 +67,8 @@ A local ONNX-based AI engine that turns network events into readable explanation
 
 Whether you are a blue-teamer, a homelab enthusiast, or a security learner, this platform is built to help you understand your network and respond faster to suspicious activity.
 ​​
----------------------------------------------------------------------------------------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🌐 Check out my project: Postulo
 ​
