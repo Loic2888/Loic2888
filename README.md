@@ -70,7 +70,7 @@ Whether you are a blue-teamer, a homelab enthusiast, or a security learner, this
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🌐 Check out my project: Postulo
+# 🌐 Check out my project: [Postulo](https://github.com/Loic2888/postulo)
 ​
 
 Postulo is an intelligent job application assistant that runs as a native desktop app, combining Rust performance, a React UI, and Groq’s Llama 3.3 70B to instantly generate tailored PDFs (cover letter, company summary, and adapted CV) from a single job offer URL.
