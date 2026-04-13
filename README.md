@@ -100,12 +100,14 @@ This repository serves as a professional gateway to various cybersecurity traini
 
 ### 🧠 What can you do with it?
 
-**Master OSINT Techniques (French):**
+**-Master OSINT Techniques (French):**
 Deep-dive into advanced digital investigation methodologies for emails, usernames, images, and phone numbers.
-**Conduct Professional Audits (French):**
+
+**-Conduct Professional Audits (French):**
 Follow a structured 4-day curriculum in French covering everything from legal frameworks to technical assessments.
 Learn from Real Cases: Analyze practical examples, such as the Yahoo security audit case study, documented in French.
-**Knowledge Sharing:**
+
+**-Knowledge Sharing:**
 Access high-quality educational resources designed to help French-speaking practitioners and security enthusiasts improve their skills.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
