@@ -93,6 +93,22 @@ Smooth developer experience: React + TypeScript frontend, Rust backend, and Chro
 Whether you are a student, a career-switching developer, or already employed and job hunting, Postulo is built to help you apply faster with consistent, highly tailored documents for every job posting, without compromising your privacy.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🌐 Check out my project: [Cybersecurity Training Hub](https://github.com/Loic2888/Formation_osint-cyber_en_francais)
+
+This repository serves as a professional gateway to various cybersecurity training courses I have developed. While the documentation is provided in English for global accessibility, the core training materials and technical modules are written in French.
+
+### 🧠 What can you do with it?
+
+**Master OSINT Techniques (French):**
+Deep-dive into advanced digital investigation methodologies for emails, usernames, images, and phone numbers.
+**Conduct Professional Audits (French):**
+Follow a structured 4-day curriculum in French covering everything from legal frameworks to technical assessments.
+Learn from Real Cases: Analyze practical examples, such as the Yahoo security audit case study, documented in French.
+**Knowledge Sharing:**
+Access high-quality educational resources designed to help French-speaking practitioners and security enthusiasts improve their skills.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
 Contact
 Email: [12188@holbertonstudents.com]
 
