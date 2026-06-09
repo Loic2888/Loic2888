@@ -22,11 +22,11 @@ If your team is looking for a motivated and curious apprentice to help build the
 
 **whooami.net** is an educational platform designed for CTF players and cybersecurity enthusiasts. I built this centralized hub to gather the best resources for learning and practicing security concepts.
 
-**🛠️ What's inside?**
+### What's inside?
 A curated collection of **150+ tools** covering essential categories:
-* 🕵️ **OSINT** (Open Source Intelligence)
-* 🖼️ **Steganography**
-* 🔐 **Cryptography**
+**OSINT** (Open Source Intelligence)
+**Steganography**
+**Cryptography**
 * And much more...
 
 Whether you are a beginner or a seasoned CTF player, this platform is built to streamline your workflow.
@@ -38,7 +38,7 @@ Whether you are a beginner or a seasoned CTF player, this platform is built to s
 **Agent Engineer** is a comprehensive collection of AI agent projects, combining stateful LangGraph orchestration, modern React UIs, and Google's Gemini 2.5 Flash to showcase everything from simple single-agent tools to advanced, autonomous multi-agent pipelines.
 ​
 
-## 🛠️ What’s inside?
+### What’s inside?
 **Real-world agentic pipelines:** explore specialized AI workflows, from deep-research which autonomously generates structured, cited Markdown reports on any topic, to invoice-processing which extracts and classifies billing data directly into a database.
 ​
 
@@ -59,7 +59,7 @@ Whether you are a student learning about agentic architecture, a full-stack deve
 
 This repository serves as a professional gateway to various cybersecurity training courses I have developed. While the documentation is provided in English for global accessibility, the core training materials and technical modules are written in French.
 
-### 🧠 What can you do with it?
+### What can you do with it?
 
 **-Master OSINT Techniques (French):**
 Deep-dive into advanced digital investigation methodologies for emails, usernames, images, and phone numbers.
@@ -80,7 +80,7 @@ Access high-quality educational resources designed to help French-speaking pract
 Postulo is an intelligent job application assistant that runs as a native desktop app, combining Rust performance, a React UI, and Groq’s Llama 3.3 70B to instantly generate tailored PDFs (cover letter, company summary, and adapted CV) from a single job offer URL.
 ​
 
-### 🛠️ What’s inside?
+### What’s inside?
 
 Real-time offer parsing: paste a LinkedIn, Indeed, or any job URL and the app automatically extracts key information about the role and the company.
 ​
