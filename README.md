@@ -1,19 +1,19 @@
-Hi, I'm Loïc!
+# Hi, I'm Loïc! 
 
-I'm currently a first-year student at Holberton Digital School in Toulouse, specializing in programming and software engineering. My goal for next year is to pursue a work-study program focused on cybersecurity, and I am actively looking for an apprenticeship opportunity in this field.
+I'm a software engineering student at Holberton Digital School in Toulouse. I am actively looking for a work-study program (alternance) in AI and Agentic Engineering starting next year to complete my RNCP Level 6 degree (Bachelor's equivalent).
 
-About me
-Passionate about learning and technology
+## About me
+**Tech-driven:** Passionate about software development, cybersecurity, and building intelligent agentic workflows.
 
-Focused on software development, cybersecurity, and systems administration
+**Growth mindset:** Constantly learning, experimenting, and eager to tackle complex technical challenges through hands-on experience.
 
-Eager to take on new challenges and grow through hands-on experience
+**Collaborative:** I enjoy solving problems and building tools that make an impact.
 
-Projects
-You’ll find my personal projects, school assignments, and open-source contributions on this GitHub. I enjoy experimenting, solving problems, and collaborating with others—so don’t hesitate to explore my repositories!
+## Projects
+On this GitHub, you’ll find my personal projects, school assignments, and open-source contributions. I love building practical solutions—especially those involving LLMs and autonomous agents—so feel free to explore my repositories!
 
-Looking for an apprenticeship
-I am seeking an apprenticeship to further develop my skills in cybersecurity for my second year at Holberton. If you are interested in a motivated and curious learner, please contact me—I would be delighted to discuss an opportunity to work with you.
+## Let's connect!
+If your team is looking for a motivated and curious apprentice to help build the next generation of AI tools, I would love to connect. Please feel free to reach out—I’d be delighted to discuss how we can work together.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -33,42 +33,46 @@ Whether you are a beginner or a seasoned CTF player, this platform is built to s
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🌐 Check out my project: [Quizz_me](https://github.com/Loic2888/Quizz_me)
+# 🌐 Check out my project: [agent_engineer](https://github.com/Loic2888/agent_engineer)
+​
+**Agent Engineer** is a comprehensive collection of AI agent projects, combining stateful LangGraph orchestration, modern React UIs, and Google's Gemini 2.5 Flash to showcase everything from simple single-agent tools to advanced, autonomous multi-agent pipelines.
+​
 
-Quizz_me is an AI-powered desktop app that generates custom quizzes on any subject you choose, helping you review and reinforce knowledge in a fast and interactive way.
+## 🛠️ What’s inside?
+**Real-world agentic pipelines:** explore specialized AI workflows, from deep-research which autonomously generates structured, cited Markdown reports on any topic, to invoice-processing which extracts and classifies billing data directly into a database.
 ​
-### 🧠 What can you do with it?
 
-Instantly create quizzes on any topic (from school subjects to tech and hobbies) using an integrated AI model.
+**Natural language database querying:** the ASKtoDB agent allows you to ask questions about your database (PostgreSQL, MySQL, SQLite) in plain English or French, securely translating them into queries via a read-only safety layer.
 ​
-Adjust the difficulty with three modes (Easy, Good, Hardcore) to match your current level and goals.
+
+**Smart email & document automation:** automate customer support with a Gmail-connected agent that uses vector memory (ChromaDB) to draft contextual replies, or use WEBtoPDF which leverages a unique visual-styling loop to precisely convert documents.
 ​
-Enjoy a modern, neon-styled dark interface that makes studying more immersive and pleasant.
+
+**Smooth developer experience:** each project is entirely self-contained, built with Python/FastAPI or Node/Express backends, React 19 frontends, and packaged with Docker and one-click launch scripts for instant local deployment.
 ​
-Built with TypeScript, Rust, and Tauri, Quizz_me is lightweight, cross-platform, and designed for students, self-learners, and anyone who wants a smarter way to revise.
+
+Whether you are a student learning about agentic architecture, a full-stack developer exploring LLM orchestration, or a builder looking to automate complex workflows, Agent Engineer provides a practical, hands-on repository to help you understand and deploy real-world AI agents efficiently.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🌐 Check out my project: [DeepSide](https://github.com/Loic2888/DeepSide)
+# 🌐 Check out my project: [Cybersecurity Training Hub](https://github.com/Loic2888/Formation_osint-cyber_en_francais)
 
-DeepSide is an autonomous cybersecurity sentinel for local networks, combining low-level packet sniffing with an on-device AI engine called Illya to analyze threats and recommend concrete mitigation actions in real time.
-​
+This repository serves as a professional gateway to various cybersecurity training courses I have developed. While the documentation is provided in English for global accessibility, the core training materials and technical modules are written in French.
 
-### 🛠️ What's inside?
+### 🧠 What can you do with it?
 
-Real-time traffic capture, device discovery, and heuristic plus AI-driven threat detection on your LAN.
-​
+**-Master OSINT Techniques (French):**
+Deep-dive into advanced digital investigation methodologies for emails, usernames, images, and phone numbers.
 
-Integrated intelligence tools (VirusTotal, Shodan, AbuseIPDB, Whois) to enrich alerts with external context before you react.
-​
+**-Conduct Professional Audits (French):**
+Follow a structured 4-day curriculum in French covering everything from legal frameworks to technical assessments.
+Learn from Real Cases: Analyze practical examples, such as the Yahoo security audit case study, documented in French.
 
-A local ONNX-based AI engine that turns network events into readable explanations and actionable commands, keeping sensitive data on your machine.
-​
+**-Knowledge Sharing:**
+Access high-quality educational resources designed to help French-speaking practitioners and security enthusiasts improve their skills.
 
-Whether you are a blue-teamer, a homelab enthusiast, or a security learner, this platform is built to help you understand your network and respond faster to suspicious activity.
-​​
 
-------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🌐 Check out my project: [Postulo](https://github.com/Loic2888/postulo)
 ​
@@ -94,23 +98,6 @@ Whether you are a student, a career-switching developer, or already employed and
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🌐 Check out my project: [Cybersecurity Training Hub](https://github.com/Loic2888/Formation_osint-cyber_en_francais)
-
-This repository serves as a professional gateway to various cybersecurity training courses I have developed. While the documentation is provided in English for global accessibility, the core training materials and technical modules are written in French.
-
-### 🧠 What can you do with it?
-
-**-Master OSINT Techniques (French):**
-Deep-dive into advanced digital investigation methodologies for emails, usernames, images, and phone numbers.
-
-**-Conduct Professional Audits (French):**
-Follow a structured 4-day curriculum in French covering everything from legal frameworks to technical assessments.
-Learn from Real Cases: Analyze practical examples, such as the Yahoo security audit case study, documented in French.
-
-**-Knowledge Sharing:**
-Access high-quality educational resources designed to help French-speaking practitioners and security enthusiasts improve their skills.
-
----------------------------------------------------------------------------------------------------------------------------------------------
 Contact
 Email: [12188@holbertonstudents.com]
 
