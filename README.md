@@ -55,24 +55,25 @@ Whether you are a student learning about agentic architecture, a full-stack deve
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-# 🌐 Check out my project: [aria.code](https://github.com/Loic2888/aria.code)
+# 🌐 Check out my project: [MySkills](https://github.com/Loic2888/MySkills)
 
-**ARIA — Automated Review & Inspection Agent** is a VSCode extension powered by a local multi-agent AI pipeline that audits your code on demand — no cloud API keys, no data leaving your machine. Built with LangGraph orchestration, FastAPI, and Ollama, it automates the full code review cycle from stack detection to security analysis and inline documentation generation.
+MySkills is a growing personal collection of Claude Code skills — written from scratch, improved over time, and actively used in my own projects to optimize how I write, document, and architect code. Every skill in this repository is one I rely on daily, not just something I built and shelved.
+
 
 ### What's inside?
-Local-first multi-agent pipeline: a LangGraph graph runs 5 specialized agents sequentially — detecting your tech stack, checking syntax against language-specific rules, hunting for security vulnerabilities, and generating JSDoc/docstrings directly in your source files. Everything runs on qwen2.5-coder:7b and llama3.1:8b via Ollama, entirely offline.
+**Skills I wrote myself:** each entry is a skill I designed to solve a real problem I encountered while building agentic pipelines, full-stack applications, or developer tooling. They reflect the patterns and workflows I've refined across multiple projects.
 
-**Parallel security framework:** four security agents run simultaneously — scanning for hardcoded secrets, missing rate limiting, XSS vulnerabilities, and SQL injection — then converge into a single prioritized report using LangGraph's fan-out/fan-in architecture.
 
-**Real-time progress in VSCode:** a Webview panel streams live agent status via SSE as the pipeline executes, giving you instant feedback agent by agent without blocking your editor.
+**Skills I improved:** some skills started as community or generated drafts that didn't quite fit my workflow — so I rewrote them, tightened the instructions, and pushed them until they produced the output I actually needed.
 
-**Zero-config file access:** the Docker setup mounts your entire host filesystem read-only, so you can audit any folder on your machine with a single command — no volume configuration required per project.
 
-**Audit report built for AI handoff:** the pipeline generates a structured aria-rapport.md classified by priority (🔴 Critical / 🟡 Warning / 🔵 Suggestion), formatted to be dropped directly into Claude Code or any other AI assistant for guided fixes.
+**Plug-and-play Claude Code integration:** every skill follows the standard Claude Code format. Copy the folder into your `.claude/` directory, invoke it with `/skill-name`, and Claude handles the rest — no setup, no external dependencies.
 
-*⚠️ ARIA is currently under active development and is not yet functional. The backend pipeline and Docker infrastructure are operational, but the VSCode extension, end-to-end testing, and packaging are still in progress. Contributions and feedback welcome.*
 
-Whether you're exploring multi-agent LangGraph architectures, building local-first developer tooling, or looking for a practical example of LLM-powered code analysis without cloud dependencies, ARIA is a hands-on reference for orchestrating specialized AI agents in a real software engineering workflow.
+**A library that keeps growing:** this repository is not a one-time dump. As I build new projects and hit new problems, I write new skills and add them here. The collection reflects my real stack: TypeScript, Python, Node.js, Docker, LangGraph, and more.
+
+
+Whether you are a developer looking to supercharge your Claude Code setup, or just curious about what a production skill library looks like in practice, MySkills gives you a concrete, battle-tested starting point to build from.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
